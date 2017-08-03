@@ -1,4 +1,4 @@
 hello world
 Git tracks changes by micky.
 not good
-branch test
+branch test and test2
